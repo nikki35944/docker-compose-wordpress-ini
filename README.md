@@ -1,1 +1,1 @@
-# docker-compose-wordpress-ini
+## Настройки для docker вместе с кастомным php.ini
